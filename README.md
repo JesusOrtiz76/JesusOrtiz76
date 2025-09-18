@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/jesus-ortiz-banner.jpg" alt="Jesús Enrique Vilchis Ortiz - Ing. Sistemas Computacionales" />
+  <img src="1723660289376.jpeg" alt="Jesús Enrique Vilchis Ortiz - Ing. Sistemas Computacionales" />
 </p>
 
 <h1 align="center">Hi, I'm Jesús Ortiz</h1>
